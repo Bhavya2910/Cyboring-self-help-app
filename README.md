@@ -13,13 +13,13 @@ Calendar: The app includes a calendar feature that enables users to schedule and
 
 Notes and PDF Upload: Users can upload and store their important notes in PDF format within the app. The app provides the ability to view these PDF notes directly within the application, making it easy for users to access and reference their documents whenever needed.
 
-:
-Installation
+
+Installation:
 To install and run the Self Help App locally, follow the steps below:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/self-help-app.git
+git clone https://github.com/Bhavya2910/Cyboring-self-help-app.git
 Navigate to the project directory:
 python
 Copy code
