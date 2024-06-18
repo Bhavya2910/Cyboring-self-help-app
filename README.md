@@ -1,7 +1,7 @@
-# Cyboring - Self Help App
+# Student Self Help App
 
 ## Description
-Cyboring - Self Help App is a mobile application built using Flutter that aims to assist users in managing their daily tasks, organizing their schedules, and keeping track of important notes. This app provides a user-friendly interface and integrates several useful features, including a to-do list, a calendar, and the ability to upload and view PDF notes.
+Student Self Help App is a mobile application built using Flutter that aims to assist users in managing their daily tasks, organizing their schedules, and keeping track of important notes. This app provides a user-friendly interface and integrates several useful features, including a to-do list, a calendar, and the ability to upload and view PDF notes.
 
 ## Features
 
