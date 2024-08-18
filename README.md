@@ -17,10 +17,10 @@ The Self Help App offers the following features:
 To install and run the Self Help App locally, follow the steps below:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bhavya2910/Cyboring-self-help-app.git
+   git clone https://github.com/Bhavya2910/Student-self-help-app.git
 2. Navigate to the project directory:
    ```bash
-   cd Cyboring-self-help-app
+   cd Student-self-help-app
 3. Install the dependencies:
    ```bash
    flutter pub get
